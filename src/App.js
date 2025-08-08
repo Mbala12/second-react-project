@@ -18,9 +18,11 @@ function App() {
       </Greet>
       <Greet name="Djedje" age="36" />
       <Welcome name="Apoulah" age="34" />
-      <Welcome name="Jay" age="35"/> */}
+      <Welcome name="Jay" age="35"/> 
       <Message />
-      <Counter />
+      <Counter /> */}
+      <Greet name="Djedje" age="36" />
+      <Welcome name="Djedje" age="36" />
     </div>
   );
 }
